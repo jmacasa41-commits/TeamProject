@@ -2,6 +2,7 @@
 This is the collaborative Git activity.
 
 # Team Members
+<pre>
 Name: James Marco R. Macasa
 Role: Leader
 
@@ -10,3 +11,4 @@ Role: Backend Developer
 
 Name: Louie Andrew D. Magahis
 Role: Frontend Developer
+</pre>
